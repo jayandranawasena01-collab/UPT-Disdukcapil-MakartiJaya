@@ -7,8 +7,13 @@
   "theme_color": "#1976d2",
   "icons": [
     {
-      "src": "https://commons.wikimedia.org/wiki/File:LOGO_JAYANDRA_NAWASENA.png",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6f/LOGO_JAYANDRA_NAWASENA.png",
       "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6f/LOGO_JAYANDRA_NAWASENA.png",
+      "sizes": "512x512",
       "type": "image/png"
     }
   ]
