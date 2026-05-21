@@ -2,6 +2,7 @@
   "name": "Disdukcapil Makarti Jaya",
   "short_name": "Disdukcapil",
   "start_url": "/UPT-Disdukcapil-MakartiJaya/",
+  "scope": "/UPT-Disdukcapil-MakartiJaya/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#1976d2",
